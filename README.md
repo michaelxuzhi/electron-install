@@ -30,7 +30,7 @@
 pakage.json：
 ```json
 {
-  "name"    : "your-app",
+  "name"    : "test1",
   "version" : "0.1.0",
   "main"    : "main.js"
 }
